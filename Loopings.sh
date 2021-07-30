@@ -86,7 +86,7 @@ do
         C)
             echo C programming language has been selected
             #can insert break before the ;; to terminate the program
-            ;;
+            ;; 
         C#)
             echo C# programming language has been selected
             ;;        
